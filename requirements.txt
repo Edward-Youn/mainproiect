@@ -1,0 +1,12 @@
+streamlit==1.28.1
+pillow==10.0.1
+easyocr==1.7.0
+exifread==3.0.0
+pandas==2.0.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+google-generativeai==0.3.2
+lxml==4.9.3
+selenium==4.15.0
+webdriver-manager==4.0.1
+python-dotenv==1.0.0
